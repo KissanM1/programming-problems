@@ -8,7 +8,7 @@ factorial(2) → 2
 factorial(3) → 6
 */
 package CodingBat;
-public class Factorial {
+public class factorial {
     public int factorial(int n) {
         if (n == 1){
           return n;
